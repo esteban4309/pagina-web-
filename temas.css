@@ -1,0 +1,77 @@
+.contenedor{
+    width: 100%;
+    height: 1400px;
+    background-color:rgb(219, 173, 187);
+}
+.encabezado{
+    width: 100%;
+    height: 150px;
+    background-color:rgb(231, 222, 178) ;
+
+}
+.menu{
+    width: 100%;
+    height: 80px;
+    background-color:rgb(141, 141, 236) ;
+display: flex;
+
+}
+.contenedor2{
+background-color: rgb(250, 250, 222);
+width: 100%;
+height: 1200px;
+display: flex;
+
+}
+.derecha{
+width: 40%;
+height: 1200px;
+background-color: rgb(139, 233, 181);
+display: flex;
+}
+.centro{
+width: 60%;
+height: 1200px;
+background-color:burlywood ;
+display: flex;
+}
+.derecha{
+width: 20%;
+height: 1200px;
+background-color: lavender;
+display: flex;
+}
+.tecnologia{
+width: 120px;
+height: 78px;
+background-color: rgb(185, 235, 185);
+display: flex;
+}
+.sociales{
+    width: 120px;
+    height: 78px;
+    background-color: rgb(127, 170, 127);
+display: flex;
+}
+.matematicas{
+    width: 120px;
+    height: 78px;
+    background-color: rgb(50, 107, 50);
+display: flex;
+}
+.ingles{
+    width: 120px;
+    height: 78px;
+    background-color: rgb(127, 151, 127);
+display: flex;
+}
+.biologia{
+    width: 120px;
+    height: 78px;
+    background-color: rgb(80, 107, 80);
+display: flex;
+}
+
+
+
+
