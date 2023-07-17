@@ -18,7 +18,41 @@
     
     }
     
+    .fondosoci{
     
+        background-image: url("fondosoci.jpg");
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        }
+
+    .fondomate{
+    
+        background-image: url("fondomate.jpg");
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        }
+
+    .fondoreli{
+    
+        background-image: url("fondoreli.avif");
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        }
+    
+    .fondotecno{
+    
+        background-image: url("fondo2.jpg");
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        }
     
     .img{
     
@@ -95,7 +129,7 @@
         
         margin-right:5px;
         
-        background-image: url("medellin.jpeg");
+        background-image: url("");
         
         }
         
@@ -105,10 +139,118 @@
         
         text-align: justify;
         
-        color: azure;
+        color: rgb(29, 32, 32);
         
         font-size: 20px;
         
         
         
         }
+           
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+             
+            
+            .imagenreli{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("");
+            
+            }
+            
+            
+            
+            .textoreli{
+            
+            text-align: justify;
+            
+            color: azure;
+            
+            font-size: 20px;
+            
+            
+            
+            }
+            
+         
+.contenido{
+
+    height: 280px;
+    
+    width: 100%;
+    
+    position: absolute;
+    
+    top: 410px;
+    
+     
+    
+    }
+    
+     
+    
+    .imagenmate{
+    
+     
+    
+    background-repeat: no-repeat;
+    
+    float:left;
+    
+    height: 200px;
+    
+    width: 260px;
+    
+    margin-left: 5px;
+    
+    margin-right:5px;
+    
+    background-image: url("fondomate2.webp");
+    
+    }
+    
+    
+    
+    .textomate{
+    
+    text-align: justify;
+    
+    color: azure;
+    
+    font-size: 20px;
+    
+    
+    
+    }
+    
+    English
+
+
+
+
+    
