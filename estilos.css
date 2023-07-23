@@ -17,7 +17,25 @@
     background-size: cover;
     
     }
+
+    .fondoingles{
     
+        background-image: url("fondoingles.webp");
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        }
+
+    .fondobio{
+    
+        background-image: url("fondobio.jpg");
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        }
+
     .fondosoci{
     
         background-image: url("fondosoci.jpg");
@@ -38,7 +56,7 @@
 
     .fondoreli{
     
-        background-image: url("fondoreli.avif");
+        background-image: url("fondoreli.jpg");
         
         background-repeat: no-repeat;
         background-size: cover;
@@ -47,7 +65,7 @@
     
     .fondotecno{
     
-        background-image: url("fondo2.jpg");
+        background-image: url("fondotecno.jpg");
         
         background-repeat: no-repeat;
         background-size: cover;
@@ -121,15 +139,15 @@
         
         float:left;
         
-        height: 200px;
+        height: 350px;
         
-        width: 260px;
+        width: 480px;
         
         margin-left: 5px;
         
         margin-right:5px;
         
-        background-image: url("");
+        background-image: url("fondotecno2.jpg");
         
         }
         
@@ -139,7 +157,7 @@
         
         text-align: justify;
         
-        color: rgb(29, 32, 32);
+        color: rgb(255, 255, 255);
         
         font-size: 20px;
         
@@ -177,7 +195,7 @@
             
             margin-left: 5px;
             
-            margin-right:5px;
+            margin-right: 5px;
             
             background-image: url("");
             
@@ -189,7 +207,7 @@
             
             text-align: justify;
             
-            color: azure;
+            color: rgb(0, 0, 0);
             
             font-size: 20px;
             
@@ -224,7 +242,7 @@
     
     height: 200px;
     
-    width: 260px;
+    width: 480px;
     
     margin-left: 5px;
     
@@ -248,9 +266,157 @@
     
     }
     
-    English
+    
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .imagensoci{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:left;
+        
+        height: 350px;
+        
+        width: 480px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("fondosoci2.jpg");
+        
+        }
+        
+        
+        
+        .textosoci{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 20px;
+        
+        
+        
+        }
 
 
+        .contenido{
 
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+             
+            
+            .imageningles{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 250px;
+            
+            width: 480px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("fondoingles2.jpg");
+            
+            }
+            
+            
+            
+            .textoingles{
+            
+            text-align: justify;
+            
+            color: azure;
+            
+            font-size: 20px;
+            
+            
+            
+            }
+        
+
+            .contenido{
+
+                height: 280px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 410px;
+                
+                 
+                
+                }
+                
+                 
+                
+                .imagenbio{
+                
+                 
+                
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5spx;
+                
+                margin-right: 5px;
+                
+                background-image: url("");
+                
+                }
+                
+                
+                
+                .textobio{
+                
+                text-align: justify;
+                
+                color: azure;
+                
+                font-size: 20px;
+                
+                
+                
+                }
 
     
