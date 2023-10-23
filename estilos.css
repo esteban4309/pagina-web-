@@ -11,66 +11,13 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("fondo\ imagen\ verde.jpg");
     
     background-repeat: no-repeat;
-    background-size: cover;
     
     }
-
-    .fondoingles{
     
-        background-image: url("fondoingles.webp");
-        
-        background-repeat: no-repeat;
-        background-size: cover;
-        
-        }
-
-    .fondobio{
     
-        background-image: url("fondobio.jpg");
-        
-        background-repeat: no-repeat;
-        background-size: cover;
-        
-        }
-
-    .fondosoci{
-    
-        background-image: url("fondosoci.jpg");
-        
-        background-repeat: no-repeat;
-        background-size: cover;
-        
-        }
-
-    .fondomate{
-    
-        background-image: url("fondomate.jpg");
-        
-        background-repeat: no-repeat;
-        background-size: cover;
-        
-        }
-
-    .fondoreli{
-    
-        background-image: url("fondoreli.jpg");
-        
-        background-repeat: no-repeat;
-        background-size: cover;
-        
-        }
-    
-    .fondotecno{
-    
-        background-image: url("fondotecno.jpg");
-        
-        background-repeat: no-repeat;
-        background-size: cover;
-        
-        }
     
     .img{
     
@@ -90,7 +37,7 @@
     
     left: 180px;
     
-    background-image: url("fondo2.jpg");
+    background-image: url("medellin.jpeg");
     
     }
     
@@ -98,7 +45,7 @@
     
      
     
-    height: 230px;
+    height: 400px;
     
      
     
@@ -115,6 +62,7 @@
      
     
     }
+
     .contenido{
 
         height: 280px;
@@ -139,7 +87,7 @@
         
         float:left;
         
-        height: 350px;
+        height: 300px;
         
         width: 480px;
         
@@ -147,8 +95,8 @@
         
         margin-right:5px;
         
-        background-image: url("fondotecno2.jpg");
-        
+        background-image: url("imagentecno.jpg");
+       
         }
         
         
@@ -157,14 +105,13 @@
         
         text-align: justify;
         
-        color: rgb(255, 255, 255);
+        color: azure;
         
         font-size: 20px;
         
         
         
         }
-           
         .contenido{
 
             height: 280px;
@@ -181,7 +128,7 @@
             
              
             
-            .imagenreli{
+            .imagensoci{
             
              
             
@@ -195,168 +142,15 @@
             
             margin-left: 5px;
             
-            margin-right: 5px;
-            
-            background-image: url("");
-            
-            }
-            
-            
-            
-            .textoreli{
-            
-            text-align: justify;
-            
-            color: rgb(0, 0, 0);
-            
-            font-size: 20px;
-            
-            
-            
-            }
-            
-         
-.contenido{
-
-    height: 280px;
-    
-    width: 100%;
-    
-    position: absolute;
-    
-    top: 410px;
-    
-     
-    
-    }
-    
-     
-    
-    .imagenmate{
-    
-     
-    
-    background-repeat: no-repeat;
-    
-    float:left;
-    
-    height: 200px;
-    
-    width: 480px;
-    
-    margin-left: 5px;
-    
-    margin-right:5px;
-    
-    background-image: url("fondomate2.webp");
-    
-    }
-    
-    
-    
-    .textomate{
-    
-    text-align: justify;
-    
-    color: azure;
-    
-    font-size: 20px;
-    
-    
-    
-    }
-    
-    
-    .contenido{
-
-        height: 280px;
-        
-        width: 100%;
-        
-        position: absolute;
-        
-        top: 410px;
-        
-         
-        
-        }
-        
-         
-        
-        .imagensoci{
-        
-         
-        
-        background-repeat: no-repeat;
-        
-        float:left;
-        
-        height: 350px;
-        
-        width: 480px;
-        
-        margin-left: 5px;
-        
-        margin-right:5px;
-        
-        background-image: url("fondosoci2.jpg");
-        
-        }
-        
-        
-        
-        .textosoci{
-        
-        text-align: justify;
-        
-        color: azure;
-        
-        font-size: 20px;
-        
-        
-        
-        }
-
-
-        .contenido{
-
-            height: 280px;
-            
-            width: 100%;
-            
-            position: absolute;
-            
-            top: 410px;
-            
-             
-            
-            }
-            
-             
-            
-            .imageningles{
-            
-             
-            
-            background-repeat: no-repeat;
-            
-            float:left;
-            
-            height: 250px;
-            
-            width: 480px;
-            
-            margin-left: 5px;
-            
             margin-right:5px;
             
-            background-image: url("fondoingles2.jpg");
+            background-image: url("imagensoci.jpg");
             
             }
             
             
             
-            .textoingles{
+            .textosoci{
             
             text-align: justify;
             
@@ -367,7 +161,6 @@
             
             
             }
-        
 
             .contenido{
 
@@ -397,11 +190,11 @@
                 
                 width: 260px;
                 
-                margin-left: 5spx;
+                margin-left: 5px;
                 
-                margin-right: 5px;
+                margin-right:5px;
                 
-                background-image: url("");
+                background-image: url("medellin.jpeg");
                 
                 }
                 
@@ -419,4 +212,150 @@
                 
                 }
 
-    
+                .contenido{
+
+                    height: 280px;
+                    
+                    width: 100%;
+                    
+                    position: absolute;
+                    
+                    top: 410px;
+                    
+                     
+                    
+                    }
+                    
+                     
+                    
+                    .imagening{
+                    
+                     
+                    
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("medellin.jpeg");
+                    
+                    }
+                    
+                    
+                    
+                    .textoing{
+                    
+                    text-align: justify;
+                    
+                    color: azure;
+                    
+                    font-size: 20px;
+                    
+                   
+                    
+                    }
+                    .contenido{
+
+                        height: 280px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 410px;
+                        
+                         
+                        
+                        }
+                    .imagenmate{
+                    
+                     
+                    
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("imagenmate.jpg");
+                        
+                        }
+                        
+                        
+                        
+                        .textomate{
+                        
+                        text-align: justify;
+                        
+                        color: azure;
+                        
+                        font-size: 20px;
+                        
+                        
+                        
+                        }
+
+                        .contenido{
+
+                            height: 400px;
+                            
+                            width: 200%;
+                            
+                            position: absolute;
+                            
+                            top: 360px;
+                            
+                             
+                            
+                            }
+                        .imagenreli{
+                        
+                         
+                        
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 280px;
+                            
+                            width: 280px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url("Imagen\ religion.jpg");
+                            
+                            }
+                            
+                            
+                            
+                            .textoreli{
+                            
+                            text-align: justify;
+                            
+                            color: azure;
+                            
+                            font-size: 30px;
+                            
+                            
+                            
+                            }
+                            .encabezado{
+                                height: 100px;
+                                width: 100%;
+                                text-align: center;
+                            }
